@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-lazyform/static/css/main.d1f144d6.chunk.css",
-    "main.js": "/react-lazyform/static/js/main.057a523d.chunk.js",
-    "main.js.map": "/react-lazyform/static/js/main.057a523d.chunk.js.map",
+    "main.js": "/react-lazyform/static/js/main.bc2e00ce.chunk.js",
+    "main.js.map": "/react-lazyform/static/js/main.bc2e00ce.chunk.js.map",
     "runtime-main.js": "/react-lazyform/static/js/runtime-main.2a1be416.js",
     "runtime-main.js.map": "/react-lazyform/static/js/runtime-main.2a1be416.js.map",
     "static/js/2.91392146.chunk.js": "/react-lazyform/static/js/2.91392146.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.2a1be416.js",
     "static/js/2.91392146.chunk.js",
     "static/css/main.d1f144d6.chunk.css",
-    "static/js/main.057a523d.chunk.js"
+    "static/js/main.bc2e00ce.chunk.js"
   ]
 }
